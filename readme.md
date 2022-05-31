@@ -7,6 +7,13 @@
 ###### Headline 6
 ####### Headline 7
 
+## Project content
+- [Supported OS] (#Supported-System)
+
+## Table of contents
+-[Content](#Tables)
+
+Table of contents: it redirects the links directly to the content
 
 This is just a normal text (without formatting)
 
@@ -56,7 +63,7 @@ Random[^1] text.
 
 [^1]: To make a reference
 
-Tables:
+## Table of Contents
 |First Column|Second Column|Third Column|
 |:---|:---:|---:|
 |Sudo|Linux|Windows|
@@ -66,3 +73,8 @@ Tables:
 List:
 - bullet point
 - bullet point
+
+
+
+
+## Supported System

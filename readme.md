@@ -9,6 +9,7 @@
 
 ## Table of contents
 - [Content](#Table-of-Contents): it redirects the links directly to the content on the page
+- [The-place-I-want-to-link-to] (#The-place-I-want-to-link-to)
 
 This is just a normal text (without formatting)
 
@@ -68,3 +69,8 @@ Random[^1] text.
 List:
 - bullet point
 - bullet point
+
+
+
+
+## The place I want to link to

@@ -11,7 +11,7 @@
 - [Supported OS] (#Supported-System)
 
 ## Table of contents
--[Content](#Tables)
+-[Content](#Table-of-Contents)
 
 Table of contents: it redirects the links directly to the content
 

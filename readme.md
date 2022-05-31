@@ -8,9 +8,7 @@
 ####### Headline 7
 
 ## Table of contents
-- [Content](#Table-of-Contents)
-
-Table of contents: it redirects the links directly to the content
+- [Content](#Table-of-Contents): it redirects the links directly to the content on the page
 
 This is just a normal text (without formatting)
 

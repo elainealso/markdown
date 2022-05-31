@@ -52,6 +52,17 @@ HTML is also accepted:
 <pre>example</pre>
 <input type="button" value="clicke me">
 
-When you use two or more headings, GitHub automatically generates a table[^1] of contents which you can access by clicking within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section. 
+Random[^1] text. 
 
-[^1]: To make a reference to 
+[^1]: To make a reference
+
+Tables:
+|First Column|Second Column|Third Column|
+|:---|:---:|---:|
+|Sudo|Linux|Windows|
+|NPM|Nodejs|Code|
+
+
+List:
+- bullet point
+- bullet point

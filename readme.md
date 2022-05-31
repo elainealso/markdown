@@ -44,3 +44,6 @@ print("Hello")
 
 To create links: [this](https://www.google.com/) is a link.
 
+A link in an image: ![online image](https://news.artnet.com/app/news-upload/2018/02/image-1024x683.jpg)
+
+Not an online image: ![image in my computer](./images/git.png)

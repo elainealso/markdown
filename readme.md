@@ -7,9 +7,6 @@
 ###### Headline 6
 ####### Headline 7
 
-## Project content
-- [Supported OS] (#Supported-System)
-
 ## Table of contents
 -[Content](#Table-of-Contents)
 
@@ -73,8 +70,3 @@ Random[^1] text.
 List:
 - bullet point
 - bullet point
-
-
-
-
-## Supported System

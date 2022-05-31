@@ -8,7 +8,7 @@
 ####### Headline 7
 
 ## Table of contents
--[Content](#Table-of-Contents)
+- [Content](#Table-of-Contents)
 
 Table of contents: it redirects the links directly to the content
 
